@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Isaac-Bell
+- 👋 Hi, my name is Isaac Moses Bell and i'm a full-stack developer
+- 🇳🇿  Born and raised in Aotearoa , New Zealand 
 - 👀 I’m interested in ... Alpha + Omega, people, snowboarding, skating, music performance and production, coding, entreprenuership,startups,security,networking,gathering
 - 🌱 I’m currently learning ...Javascript, Python, Networking, Hacking, Entrees
-- 💞️ I’m looking to collaborate on ...React native (app devlopment,launch,marketing,sales,equity share), hacking, projects (project manager),  
+- 💞️ I’m looking to collaborate on ...work, App devlopment, learning opportunities, projects  
 - 📫 How to reach me ... isaacmosesbell@gmail.com
 
 <!---
